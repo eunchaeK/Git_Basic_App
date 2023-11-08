@@ -5,3 +5,4 @@
 * Clone 명령어
 * Pull 과 Fetch 명령어
 * diff 명령어
+* branch 와 merge 명령어
